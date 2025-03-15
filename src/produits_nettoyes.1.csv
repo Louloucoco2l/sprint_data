@@ -1,0 +1,175 @@
+id;marque;processeur;taille_ecran;disque_dur;prix;note;avis;nombre_acheteurs;stock_disponible;short_processeur
+1;Greed;Intel Core i7;;;1899.9;5.0;14;988;230;Intel
+2;ACEMAGIC;Mobile CPU;;;279.99;4.0;171;1045;446;Inconnu
+3;MAXLEGEN;Celeron;;256.0;289.99;4.0;191;760;37;Celeron
+4;Dell;Ryzen 7;16.0;;849.0;4.0;82;568;349;Ryzen
+5;PINSTONE;Mobile CPU;;512.0;235.54;4.0;410;459;132;Inconnu
+6;Lenovo;MediaTek Kompanio 520;14.0;64.0;189.99;4.0;272;491;115;MediaTek
+7;acer;Celeron B830;;128.0;249.0;4.0;865;980;181;Celeron
+8;PINSTONE;Celeron N4000;14.0;128.0;189.99;4.0;313;526;56;Celeron
+9;acer;Core i3 3,06 GHz;;512.0;449.0;4.0;298;989;242;Inconnu
+10;acer;Celeron;14.0;128.0;199.0;4.0;370;468;40;Celeron
+11;Hcjip;Celeron N;;512.0;209.99;3.0;12;674;476;Celeron
+12;bvate;Celeron N4020;14.0;256.0;216.09;4.0;21;465;256;Celeron
+13;Lenovo;Celeron;;1000.0;377.0;4.0;759;205;354;Celeron
+14;Lenovo;;;512.0;;3.0;3;930;2;
+15;WOZIFAN;Celeron;;128.0;185.49;4.0;58;1134;452;Celeron
+16;Ekonavi;Core i5;16.0;512.0;339.99;5.0;7;1378;250;Inconnu
+17;AOC;AMD Ryzen 7;;512.0;443.99;4.0;186;586;394;Ryzen
+18;AOCWEI;Celeron N;16.0;512.0;288.99;4.0;36;1498;221;Celeron
+19;ACEMAGIC;Celeron;;512.0;499.99;4.0;77;1432;423;Celeron
+20;Lenovo;Celeron N;;128.0;249.99;4.0;91;1163;449;Celeron
+21;Lenovo;;14.0;512.0;449.99;4.0;107;1420;476;
+22;Ruzava;Celeron;14.0;256.0;269.99;4.0;156;710;34;Celeron
+23;NOTODD;Celeron;14.0;256.0;269.49;4.0;214;589;245;Celeron
+24;HP;Intel N100;14.0;64.0;199.0;4.0;31;719;119;Intel
+25;Monovate;Celeron N;15.6;256.0;219.99;4.0;39;327;363;Celeron
+26;Dell;Ryzen 5;;512.0;499.0;4.0;142;778;458;Ryzen
+27;acer;Ryzen 5;14.0;512.0;509.0;4.0;34;1408;196;Ryzen
+28;bvate;Celeron N4020;14.0;256.0;199.49;4.0;55;405;111;Celeron
+29;HP;Ryzen 5;;256.0;399.0;4.0;158;502;465;Ryzen
+30;Energizer;Celeron J3455;;256.0;299.99;1.0;1;1195;493;Celeron
+31;ASUS;Intel Core i7;;512.0;759.99;4.0;16;166;65;Intel
+32;Dell;Core i9;;;3669.0;3.0;18;1348;351;Inconnu
+33;bvate;Core i3-1000G4;16.0;512.0;359.99;4.0;57;538;59;Inconnu
+34;TECLAST;Celeron;;512.0;439.99;5.0;5;1347;245;Celeron
+35;Dell;Snapdragon;14.0;;1049.0;4.0;16;822;46;Snapdragon
+36;Zonatrix;Celeron N;;256.0;219.99;4.0;11;1371;495;Celeron
+37;KUMNOSAL;Core i5;16.0;512.0;329.99;3.0;6;1487;336;Inconnu
+38;ACEMAGIC;AMD Ryzen 7;;;486.99;4.0;171;419;194;Ryzen
+39;Lenovo;Ryzen 7;16.0;512.0;599.99;4.0;45;337;466;Ryzen
+40;Wexultor;Celeron;;256.0;199.99;3.0;26;328;242;Celeron
+41;NOTODD;Celeron N4020;;256.0;227.49;4.0;62;531;316;Celeron
+42;Ekonavi;Celeron;14.0;256.0;219.99;4.0;5;170;355;Celeron
+43;Apple;Inconnu;;128.0;;3.0;21;559;323;Inconnu
+44;Lenovo;Core i5 2,8 GHz;16.0;1.0;649.99;4.0;146;782;51;Inconnu
+45;DREAMFYRE;;16.0;512.0;299.99;4.0;18;735;287;
+46;ASUS;AMD Ryzen 7 5800H;15.0;;629.0;4.0;71;1229;280;Ryzen
+47;ACEMAGIC;AMD Ryzen 7;;512.0;439.99;4.0;44;1038;39;Ryzen
+49;Monovate;Celeron N;;512.0;279.99;5.0;2;1005;175;Celeron
+50;Insoluxia;Celeron N4000;;256.0;199.99;3.0;139;711;298;Celeron
+51;HP Laptop;Core i7;;512.0;699.0;4.0;95;442;467;Inconnu
+52;AOC;AMD Ryzen 7;;512.0;443.99;4.0;186;1378;439;Ryzen
+53;NOTODD;Celeron;16.0;512.0;399.99;4.0;20;1264;294;Celeron
+54;Dell;Core i7 Family;;512.0;649.0;4.0;82;682;153;Inconnu
+55;AOC;Mobile CPU;;512.0;339.99;4.0;52;920;385;Inconnu
+56;bvate;Celeron N4020;14.0;256.0;201.87;4.0;103;1055;466;Celeron
+57;HP;Intel Core i5;14.0;256.0;300.0;4.0;43;1015;171;Intel
+58;ACEMAGIC;Intel Core Solo;;512.0;429.99;4.0;598;410;461;Intel
+59;Dell;Intel Core 5;14.0;512.0;;4.0;65;306;288;Intel
+60;ACEMAGIC;AMD Ryzen 7 5700U;;512.0;499.99;4.0;655;201;57;Ryzen
+61;Dell;Core i7 2,7 GHz;;;1699.0;4.0;9;1387;426;Inconnu
+62;UMIDIGI;;11.0;;219.99;4.0;313;628;455;
+63;AOCWEI;Celeron N;14.0;256.0;230.49;4.0;368;281;498;Celeron
+64;FUNYET;Celeron;16.0;512.0;309.99;3.0;693;822;123;Celeron
+65;ASUS;Celeron;14.0;128.0;329.99;4.0;160;367;122;Celeron
+66;ACEMAGIC;AMD Ryzen 7 5700U;;512.0;499.99;4.0;655;669;244;Ryzen
+67;ASUS;Core i5;15.0;512.0;599.0;4.0;55;745;354;Inconnu
+68;acer;Core i9;;512.0;1299.0;4.0;264;219;37;Inconnu
+70;MAXLEGEN;Celeron;;256.0;289.99;4.0;191;1442;6;Celeron
+71;AOCWEI;Celeron N;16.0;512.0;288.99;4.0;36;1030;159;Celeron
+72;Apple;Apple M4;14.0;;1812.0;4.0;27;722;280;Apple
+73;NIAKUN;AMD Ryzen 7 5700U;15.6;;659.99;4.0;72;423;420;Ryzen
+74;ASUS;Ryzen 5;14.0;512.0;499.99;3.0;41;1250;261;Ryzen
+75;ASUS;Celeron;15.0;128.0;329.99;3.0;32;677;44;Celeron
+76;HP;Ryzen 3;;256.0;429.0;4.0;75;936;441;Ryzen
+77;Dell;Snapdragon;14.0;512.0;799.0;4.0;16;1150;69;Snapdragon
+78;Auusda;Celeron;;;459.0;4.0;50;1443;23;Celeron
+80;Apple;Apple M3;;;1079.0;4.0;172;1286;484;Apple
+81;MAXLEGEN;Pentium Other;;512.0;379.99;4.0;150;942;185;Pentium
+82;Apple;Apple M2;;;1029.0;4.0;888;751;474;Apple
+83;Waxuor;Celeron;16.0;256.0;249.99;3.0;9;828;314;Celeron
+84;Ekonavi;Celeron;;;289.99;5.0;4;389;148;Celeron
+85;HP;AMD Ryzen 7;;512.0;649.0;4.0;14;764;302;Ryzen
+86;hp;Core i5;;512.0;579.0;3.0;13;1149;61;Inconnu
+87;MSI;AMD Ryzen 7;;512.0;599.0;4.0;46;552;401;Ryzen
+88;ASUS;Ryzen 7;17.0;;799.99;4.0;3;614;322;Ryzen
+89;Auusda;Celeron;;;459.0;4.0;50;1313;408;Celeron
+90;bvate;Celeron N4020;14.0;256.0;216.09;4.0;77;424;73;Celeron
+91;Samsung;;;512.0;819.9;4.0;19;882;142;
+92;Morostron;Celeron;16.0;256.0;249.99;3.0;44;236;494;Celeron
+93;acer;Core i3 3,06 GHz;;512.0;449.0;4.0;298;1236;37;Inconnu
+94;Greed;Intel Core i7;;;739.9;3.0;705;1172;209;Intel
+95;AOC;Mobile CPU;;512.0;289.99;4.0;186;650;431;Inconnu
+96;AOC;Mobile CPU;;512.0;289.99;4.0;111;1036;29;Inconnu
+97;HP;Core i5;;512.0;699.0;4.0;45;328;353;Inconnu
+98;Monovate;Core i7-1195G7;;512.0;499.99;4.0;14;1235;177;Inconnu
+99;ASUS;Ryzen 7;17.0;512.0;979.99;4.0;22;889;328;Ryzen
+100;HP;Celeron;;256.0;469.99;4.0;23;640;106;Celeron
+101;Lenovo;Ryzen 5;14.0;512.0;749.99;3.0;14;435;48;Ryzen
+102;HP;Intel Core 7;;;999.0;4.0;51;155;423;Intel
+103;ACEMAGIC;Celeron;;512.0;499.99;4.0;77;772;471;Celeron
+104;MSI;Core i5 2,8 GHz;;512.0;699.0;5.0;3;493;81;Inconnu
+105;ASUS;Intel Core I7 12700H;15.0;512.0;1499.99;4.0;16;1450;498;Intel
+106;HP;Intel Core i5;;512.0;;3.0;54;1469;242;Intel
+107;MSI;;;1000.0;1599.0;4.0;112;1494;220;
+108;HP;Celeron;;500.0;386.9;4.0;303;160;372;Celeron
+109;acer;Core i5 2,8 GHz;;512.0;799.0;3.0;7;421;199;Inconnu
+110;Victus;Core i5;;512.0;899.0;4.0;167;127;379;Inconnu
+111;Monovate;Ryzen 3 3200U;;512.0;329.99;4.0;12;673;298;Ryzen
+112;ACEMAGIC;Core Solo;;512.0;293.99;4.0;91;1482;352;Inconnu
+113;MSI;Core i7 2,7 GHz;;;1499.0;3.0;14;1091;366;Inconnu
+114;HP;Ryzen 5;;512.0;549.0;0.0;0;910;275;Ryzen
+115;ASUS;Ryzen 7;14.0;512.0;1019.99;4.0;11;1175;278;Ryzen
+116;Dell;Core i5-8350U;14.0;512.0;;5.0;1;243;65;Inconnu
+117;ASUS;Ryzen 9;16.0;;1274.99;4.0;7;395;493;Ryzen
+118;ASUS;Intel Core i9;;;1299.99;4.0;7;1147;264;Intel
+119;HP;Ryzen 3;;512.0;599.0;4.0;99;247;345;Ryzen
+120;Lenovo;;;;209.9;4.0;303;497;434;
+121;Dell;Snapdragon;14.0;512.0;799.0;4.0;16;244;131;Snapdragon
+122;UMIDIGI;;11.0;;219.99;4.0;313;1028;354;
+123;AOCWEI;Celeron N;14.0;256.0;230.49;4.0;368;107;378;Celeron
+124;FUNYET;Celeron;16.0;512.0;309.99;3.0;693;151;326;Celeron
+125;ASUS;Celeron;14.0;128.0;329.99;4.0;160;338;498;Celeron
+126;ACEMAGIC;AMD Ryzen 7 5700U;;512.0;499.99;4.0;655;1137;10;Ryzen
+127;ASUS;Core i5;15.0;512.0;599.0;4.0;55;368;59;Inconnu
+128;acer;Core i9;;512.0;1299.0;4.0;264;1132;265;Inconnu
+130;MAXLEGEN;Celeron;;256.0;289.99;4.0;191;580;431;Celeron
+131;AOCWEI;Celeron N;16.0;512.0;288.99;4.0;36;635;220;Celeron
+132;Apple;Apple M4;14.0;;1812.0;4.0;27;1333;309;Apple
+133;NIAKUN;AMD Ryzen 7 5700U;15.6;;659.99;4.0;72;461;382;Ryzen
+134;ASUS;Ryzen 5;14.0;512.0;499.99;3.0;41;1006;483;Ryzen
+135;ASUS;Celeron;15.0;128.0;329.99;3.0;32;747;267;Celeron
+136;HP;Ryzen 3;;256.0;429.0;4.0;75;617;387;Ryzen
+137;Auusda;Celeron;;;459.0;4.0;50;747;132;Celeron
+139;Morostron;Celeron;16.0;256.0;249.99;3.0;44;962;113;Celeron
+140;Apple;Apple M3;;;1079.0;4.0;172;767;61;Apple
+141;MAXLEGEN;Pentium Other;;512.0;379.99;4.0;150;852;469;Pentium
+142;Apple;Apple M2;;;1029.0;4.0;888;459;156;Apple
+143;Waxuor;Celeron;16.0;256.0;249.99;3.0;9;1038;377;Celeron
+144;Ekonavi;Celeron;;;289.99;5.0;4;913;414;Celeron
+145;HP;AMD Ryzen 7;;512.0;649.0;4.0;14;1350;440;Ryzen
+146;hp;Core i5;;512.0;579.0;3.0;13;1111;455;Inconnu
+147;MSI;AMD Ryzen 7;;512.0;599.0;4.0;46;1405;457;Ryzen
+148;ASUS;Ryzen 7;17.0;;799.99;4.0;3;791;419;Ryzen
+149;Auusda;Celeron;;;459.0;4.0;50;1042;224;Celeron
+150;bvate;Celeron N4020;14.0;256.0;216.09;4.0;77;1335;362;Celeron
+151;Monovate;Core i7-1195G7;;512.0;499.99;4.0;14;649;138;Inconnu
+152;acer;Core i3 3,06 GHz;;512.0;449.0;4.0;298;540;105;Inconnu
+153;Greed;Intel Core i7;;;739.9;3.0;705;654;114;Intel
+154;AOC;Mobile CPU;;512.0;289.99;4.0;186;151;254;Inconnu
+156;Samsung;;;512.0;819.9;4.0;19;1310;368;
+157;AOC;Mobile CPU;;512.0;289.99;4.0;111;572;60;Inconnu
+158;HP;Core i5;;512.0;699.0;4.0;45;229;200;Inconnu
+159;ASUS;Ryzen 7;17.0;512.0;979.99;4.0;22;731;317;Ryzen
+160;HP;Celeron;;256.0;469.99;4.0;23;1468;486;Celeron
+161;Lenovo;Ryzen 5;14.0;512.0;749.99;3.0;14;844;475;Ryzen
+162;HP;Intel Core 7;;;999.0;4.0;51;1119;420;Intel
+163;ACEMAGIC;Celeron;;512.0;499.99;4.0;77;159;172;Celeron
+164;MSI;Core i5 2,8 GHz;;512.0;699.0;5.0;3;142;102;Inconnu
+165;HP;Intel Core i5;;512.0;;3.0;54;135;496;Intel
+166;ASUS;Intel Core I7 12700H;15.0;512.0;1499.99;4.0;16;148;170;Intel
+167;MSI;;;1000.0;1599.0;4.0;112;235;366;
+168;HP;Celeron;;500.0;386.9;4.0;303;632;316;Celeron
+169;acer;Core i5 2,8 GHz;;512.0;799.0;3.0;7;955;482;Inconnu
+170;Victus;Core i5;;512.0;899.0;4.0;167;1379;461;Inconnu
+171;Monovate;Ryzen 3 3200U;;512.0;329.99;4.0;12;1127;359;Ryzen
+172;ACEMAGIC;Core Solo;;512.0;293.99;4.0;91;1399;412;Inconnu
+173;MSI;Core i7 2,7 GHz;;;1499.0;3.0;14;712;483;Inconnu
+174;HP;Ryzen 5;;512.0;549.0;0.0;0;666;176;Ryzen
+175;ASUS;Ryzen 7;14.0;512.0;1019.99;4.0;11;1093;436;Ryzen
+176;Dell;Core i5-8350U;14.0;512.0;;5.0;1;564;149;Inconnu
+177;ASUS;Ryzen 9;16.0;;1274.99;4.0;7;845;441;Ryzen
+178;ASUS;Intel Core i9;;;1299.99;4.0;7;1033;253;Intel
+179;HP;Ryzen 3;;512.0;599.0;4.0;99;1128;444;Ryzen
+180;Lenovo;;;;209.9;4.0;303;1041;461;
